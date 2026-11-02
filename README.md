@@ -61,6 +61,13 @@ Each category contains 13,780 images, giving a total of 27,560 images.
 
 The objective of this project was to gain practical experience in image classification, CNN architecture, model training and deployment. It also helped me understand how a trained deep learning model can be connected to a user-facing application.
 
+## What I Learned
+
+- Understanding image classification.
+- Learning about malaria parasite detection.
+- Exploring machine learning for healthcare applications.
+- Improving my Python and GitHub skills.
+
 ## Disclaimer
 
 This project is developed for educational and learning purposes. Its predictions should not be considered a medical diagnosis or a replacement for professional laboratory examination.
