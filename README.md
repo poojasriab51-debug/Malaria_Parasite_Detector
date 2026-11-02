@@ -68,6 +68,14 @@ The objective of this project was to gain practical experience in image classifi
 - Exploring machine learning for healthcare applications.
 - Improving my Python and GitHub skills.
 
+- ## Future Improvements
+
+- Improve the accuracy of the detection model.
+- Add more malaria parasite image datasets.
+- Explore different deep learning architectures.
+- Develop a user-friendly web interface.
+- Test the model with real-world images.
+
 ## Disclaimer
 
 This project is developed for educational and learning purposes. Its predictions should not be considered a medical diagnosis or a replacement for professional laboratory examination.
